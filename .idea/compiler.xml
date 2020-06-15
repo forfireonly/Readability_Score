@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Accounts_main" target="11" />
+      <module name="Problems-Accounts_test" target="11" />
+      <module name="Problems-Calculating_factorials_main" target="11" />
+      <module name="Problems-Calculating_factorials_test" target="11" />
+      <module name="Problems-Heron's_formula_main" target="11" />
+      <module name="Problems-Heron's_formula_test" target="11" />
+      <module name="Problems-Pow_main" target="11" />
+      <module name="Problems-Pow_test" target="11" />
+      <module name="Problems-Quadratic_equation_main" target="11" />
+      <module name="Problems-Quadratic_equation_test" target="11" />
+      <module name="Problems-Shape_main" target="11" />
+      <module name="Problems-Shape_test" target="11" />
+      <module name="Problems-Test_learners_main" target="11" />
+      <module name="Problems-Test_learners_test" target="11" />
+      <module name="Problems-The_angle_between_vectors_main" target="11" />
+      <module name="Problems-The_angle_between_vectors_test" target="11" />
+      <module name="Problems-The_sum_of_integers_from_a_to_b_main" target="11" />
+      <module name="Problems-The_sum_of_integers_from_a_to_b_test" target="11" />
+      <module name="Readability_Score-task_main" target="11" />
+      <module name="Readability_Score-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
